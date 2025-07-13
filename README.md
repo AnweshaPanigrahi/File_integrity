@@ -1,10 +1,10 @@
 # File_integrity
 
-This project provides a secure and efficient way to verify file integrity using cryptographic hashing algorithms like SHA-256 and MD5. It is built with FastAPI, offering a lightweight yet powerful solution to detect unauthorized file modifications. The API allows users to generate hashes for uploaded files and validate them against precomputed checksums, ensuring data authenticity and security. Ideal for applications requiring tamper-proof file verification, such as secure document storage, software distribution, or system monitoring, this tool delivers a reliable and easy-to-integrate solution.
+This project provides a secure and efficient way to verify file integrity using cryptographic hashing algorithms like SHA-256. It is built with FastAPI, offering a lightweight yet powerful solution to detect unauthorized file modifications. The API allows users to generate hashes for uploaded files and validate them against precomputed checksums, ensuring data authenticity and security. Ideal for applications requiring tamper-proof file verification, such as secure document storage, software distribution, or system monitoring, this tool delivers a reliable and easy-to-integrate solution.
 
 **Key Features**
 
-Generate cryptographic hashes for files using supported algorithms (SHA-256, MD5).
+Generate cryptographic hashes for files using supported algorithms (SHA-256).
 
 Validate file integrity by comparing computed hashes with provided checksums.
 
